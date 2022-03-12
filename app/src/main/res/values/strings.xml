@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Audio Trimmer</string>
+    <string name="album_art">Album Art</string>
+    <string name="podcast_mp3">Podcast.mp3</string>
+    <string name="play">Play</string>
+    <string name="done">Done</string>
+    <string name="mark_clip_end">Mark Clip End</string>
+    <string name="save_clip">Save Clip</string>
+</resources>
